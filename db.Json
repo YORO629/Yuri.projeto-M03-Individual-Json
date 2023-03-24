@@ -1,0 +1,113 @@
+{
+  "Sanduiches":[
+    {
+      "id": 1,
+      "Nome": "Norte",
+      "Preço": "35,90",
+      "Descrição": "Pão brioche, 150 gramas de carne de peixe artesanal, com salada e Maionese de limão."
+    },
+    {
+      "id": 2,
+      "Nome": "Nordeste",
+      "Preço": "39,90",
+      "Descrição": "Pão italiano, 180 gramas de carne bovina artesanal, com geleia de pimenta e queijo coalho."
+    },
+    {
+      "id": 3,
+      "Nome": "Sul",
+      "Preço": "49,90",
+      "Descrição": "Pão australiano, 200 gramas de carne bovina artesanal, Bacon, salada verde e maionese temperada."
+    },
+    {
+      "id": 4,
+      "Nome": "Sudeste",
+      "Preço": "44,90",
+      "Descrição": "Pão australiano, 180 gramas de carne bovina artesanal, com couve e cream cheese"
+    },
+    {
+      "id": 5,
+      "Nome": "Centro-Oeste",
+      "Preço": "48,90",
+      "Descrição": "Pão brioche, 150 gramas de carne de frango artesanal, com salada de pequi e molho especial."
+    }
+  ],
+  "Bebidas":[
+    {
+      "id": 1,
+      "Nome": "Guaraná Antártica",
+      "Preço": "5,90"
+    },
+    {
+      "id": 2,
+      "Nome": "Coca-Cola",
+      "Preço": "5,90"
+    },
+    {
+      "id": 3,
+      "Nome": "Sprite",
+      "Preço": "5,90"
+    },
+    {
+      "id": 4,
+      "Nome": "Fanta Uva",
+      "Preço": "5,90"
+    },
+    {
+      "id": 5,
+      "Nome": "Fanta Laranja",
+      "Preço": "5,90"
+    },
+    {
+      "id": 6,
+      "Nome": "Fanta Maracujá",
+      "Preço": "6,90"
+    },
+    {
+      "id": 7,
+      "Nome": "Matte Leão",
+      "Preço": "6,90"
+    },
+    {
+      "id": 8,
+      "Nome": "Guaravita",
+      "Preço": "2,90"
+    },
+    {
+      "id": 9,
+      "Nome": "Guaraviton",
+      "Preço": "4,90"
+    },
+    {
+      "id": 2,
+      "Nome": "Coca-Cola Zero",
+      "Preço": "6,90"
+    }
+  ],
+  "Acompanhamentos":[
+    {
+      "id": 1,
+      "Nome": "Batata Frita",
+      "Preço": "7,90"
+    },
+    {
+      "id": 2,
+      "Nome": "Nuggets",
+      "Preço": "9,90"
+    },
+    {
+      "id": 3,
+      "Nome": "Onion Rings",
+      "Preço": "9,90"
+    },
+    {
+      "id": 4,
+      "Nome": "Batata Canoa",
+      "Preço": "9,90"
+    },
+    {
+      "id": 5,
+      "Nome": "Batata com Cheddar e Bacon",
+      "Preço": "12,90"
+    }
+  ]
+}
